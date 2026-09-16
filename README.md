@@ -3,8 +3,6 @@
 > **儲存庫網址**：[https://github.com/ryanlin19960221/20260916_TEST](https://github.com/ryanlin19960221/20260916_TEST)  
 > **Live Demo Page**：[https://ryanlin19960221.github.io/20260916_TEST/](https://ryanlin19960221.github.io/20260916_TEST/)  
 
-![Live Demo Snapshot](./assets/demo-preview.png)
-
 ---
 
 ## 📌 1. 專案定位與教學故事線（Pedagogical Storyline）

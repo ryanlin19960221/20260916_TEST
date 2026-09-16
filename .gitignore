@@ -1,0 +1,18 @@
+# System & OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local Logs & Env
+*.log
+.env
+mcp_config.json
+.agents/mcp_config.json
